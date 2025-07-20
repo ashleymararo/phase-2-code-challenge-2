@@ -31,6 +31,7 @@ This starts the server at ```http://localhost:3000/goals```
 ```npm run dev```
 
 ## Project Structure
+
 smart-goal-planner/
 ├── public/
 ├── src/
