@@ -1,6 +1,8 @@
 ## Smart Goal Planner
 A simple React app for managing financial goals! This project lets users create, track, update, and delete personal savings goals—all synced with a json-server backend.
 
+
+
 ## Features
 -Add a new savings goal
 -Deposit money toward your goals
@@ -17,7 +19,7 @@ A simple React app for managing financial goals! This project lets users create,
 ## How to run the app locally
 1. Clone this repo.
 ```
-git clone https://github.com/ashleymararo/p2-code-challenge-2
+git clone https://github.com/ashleymararo/phase-2-code-challenge-2
 cd smart-goal-planner
 ```
 2. Install dependencies.
