@@ -29,3 +29,22 @@ Then run
 This starts the server at ```http://localhost:3000/goals```
 4. Start the React app.
 ```npm run dev```
+
+## Project Structure
+smart-goal-planner/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── AddGoalForm.jsx
+│   │   └── GoalCard.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   └── main.jsx
+├── db.json
+└── README.md
+
+## Credits
+Created by Ashley Mararo
+
+## License
+MIT
