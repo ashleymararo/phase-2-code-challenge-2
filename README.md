@@ -32,6 +32,9 @@ This starts the server at ```http://localhost:3000/goals```
 4. Start the React app.
 ```npm run dev```
 
+## Deployed Project
+```https://marvelous-treacle-38e4bc.netlify.app/```
+
 ## Project Structure
 
     smart-goal-planner/
