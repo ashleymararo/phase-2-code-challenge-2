@@ -33,7 +33,7 @@ This starts the server at ```http://localhost:3000/goals```
 ```npm run dev```
 
 ## Deployed Project
-```https://marvelous-treacle-38e4bc.netlify.app/```
+Visit the deployed site: [Smart Goal Planner on Netlify](https://marvelous-treacle-38e4bc.netlify.app/)
 
 ## Project Structure
 
